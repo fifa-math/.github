@@ -1,4 +1,6 @@
 # .github
+
+**Scripting policy:** [Use Rust, not Python scripts](CONTRIBUTING.md#rust-first-scripts-and-automation). Documented Python application code is a narrow exception.
 Organization-wide GitHub, branching, agent, and delivery policy
 
 <!-- ore-org-baseline:begin -->
